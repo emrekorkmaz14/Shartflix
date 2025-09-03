@@ -1,1 +1,1 @@
-/// Maybe you can manage icon for bottom navigation bar items
+// Maybe you can manage icon for bottom navigation bar items
